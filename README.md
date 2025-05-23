@@ -28,6 +28,7 @@
   <hr>
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SandeepPyata&show_icons=true&include_all_commits=true&title_color=50E91C&icon_color=50E91C)
+  ![Sandeep's github chart](https://ghchart.rshah.org/SandeepPyata)
 
 
   <p>
